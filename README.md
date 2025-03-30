@@ -51,7 +51,7 @@ The dataset used in this project contains the following key features:
 
 Clone the repository:
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Luckyrag/HousePricePrediction.git
 cd house-price-prediction
 
 ## Install dependencies:
